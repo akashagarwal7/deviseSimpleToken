@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##APP info
 
-Things you may want to cover:
+* Ruby version- ruby 2.3.1p112
 
-* Ruby version
+* Rails version- Rails 5.1.4
 
-* System dependencies
+* Database- MySQL
 
-* Configuration
+## Extra gems apart from default initialization-
 
-* Database creation
+* Devise: https://github.com/plataformatec/devise
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Simple Token Auth: https://github.com/gonzalo-bulnes/simple_token_authentication
